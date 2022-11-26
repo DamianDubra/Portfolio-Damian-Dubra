@@ -1,0 +1,20 @@
+.nombre {
+    margin-left: 40%;
+    margin-top: 10px;
+    font-family:'Courier New', Courier, monospace;
+}
+#foto {
+    margin-top: 10px;
+}
+#instagram {
+    margin-left: 50%;
+}
+#linkedin {
+    margin-left: 50%;
+}
+#faceboock {
+    margin-left: 50%;
+}
+.form {
+    margin-top: 50%;
+}
