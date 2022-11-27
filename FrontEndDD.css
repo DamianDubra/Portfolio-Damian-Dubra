@@ -1,20 +1,66 @@
-.nombre {
-    margin-left: 40%;
-    margin-top: 10px;
-    font-family:'Courier New', Courier, monospace;
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+#home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#nombre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 250px;
+}
+#login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#portfolio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #foto {
-    margin-top: 10px;
+    margin-top: 50px;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #instagram {
-    margin-left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #linkedin {
-    margin-left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 #faceboock {
-    margin-left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .form {
-    margin-top: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#about {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+h4 {
+    margin-top: 5px;
+}
+#formulario {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
